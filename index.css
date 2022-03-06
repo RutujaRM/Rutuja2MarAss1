@@ -1,0 +1,71 @@
+body{
+     margin: 0px;
+   
+}
+
+
+form{
+    
+    width: 30%px;
+    height: 650px;
+    margin: 30px 30px 30px 30px;
+    box-shadow: 0px 8px 16px 4px;
+    padding: 30px;
+    border-radius: 20px;
+   background-color: ghostwhite;
+    
+   
+}
+
+#container{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 40%;
+    float: left;
+    
+             
+}
+#container1{
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 60%;
+    float: right;
+    
+             
+}
+
+#container2{
+    
+   
+ margin: 20px 0px 0px 0px;          
+}
+
+img{
+    height: 600px;
+}
+#img1{
+       height: 300px;
+       width: 200px;
+       margin: 0px 0px 0px 600px;
+}
+#img2{
+    height: 500px;
+    width: 500px;
+    margin: 0px 0px 300px 200px;
+}
+button{
+       line-height: 30px;
+       width: 200px;
+       border-radius: 20px;
+       background-color: orangered;
+}
+span{
+      padding: 5px;
+      margin-left: 50px;
+}
+
+footer{
+     margin-top: 120px;
+}
